@@ -1,6 +1,6 @@
-# proyectofinal2025
 
-# ProyectoFinal2025
+
+# ProyectoFinal2025 - LasDosReinas
 
 Este repositorio contiene el proyecto web **Las Dos Reinas**, desarrollado con PHP, JavaScript y CSS, utilizando XAMPP como entorno local. El objetivo es mostrar el menú y productos del restaurante de forma interactiva y visualmente atractiva.
 
@@ -56,4 +56,4 @@ Este repositorio contiene el proyecto web **Las Dos Reinas**, desarrollado con P
 
 ---
 
-**Desarrollado por el equipo Las Dos
+Desarrollado por Nexus Horizon
